@@ -1,0 +1,44 @@
+	/* AINDA NAO UTILIZAR
+	SkillAgil := Skill{
+		Id:          5,
+		Description: "Java",
+	}
+
+	MemberClassic := Member{
+		Id:    12,
+		Name:  "Brian Johson",
+		Age:   19,
+		Skill: []Skill{SkillAgil},
+	}
+
+	VideoCode := Video{
+		Id:          3,
+		Url:         "https://www.youtube.com/embed/PvQDAYrQe6w",
+		Context:     "code",
+		Description: "<h2>Code</h2> <h4>Create innovative solutions fast</h4> Adopt development practices to build cloud-native applications, release incremental function, gather feedback, and measure results.",
+		Background:  "#19A69F",
+		Member:      []Member{MemberClassic},
+	}
+	SkillBackend := Skill{
+		Id:          5,
+		Description: "Python",
+	}
+
+	MemberBeginner := Member{
+		Id:    17,
+		Name:  "John",
+		Age:   29,
+		Skill: []Skill{SkillBackend},
+	}
+
+	VideoCodeInovation := Video{
+		Id:          5,
+		Url:         "https://www.youtube.com/watch?v=BWyDA5y6TIg",
+		Context:     "code",
+		Description: "<h2>Code</h2> <h4>Create innovative solutions fast</h4> Adopt development practices to build cloud-native applications, release incremental function, gather feedback, and measure results.",
+		Background:  "#349643",
+		Member:      []Member{MemberBeginner},
+	}
+	fmt.Println("Primerio Json: ", string(k))
+	}
+	*/
