@@ -25,6 +25,7 @@ func main() {
 }
 
 /*
+
 func testehandle(w http.ResponseWriter, r *http.Request){
 	//Implementar json.Marshal para passar uma lista
 	var videos []Video

@@ -134,5 +134,4 @@ func channelsListByUsername(service *youtube.Service, part string, forUsername s
 	handleError(err, "Error creating YouTube client")
 
 	channelsListByUsername(service, "snippet,contentDetails,statistics", "GoogleDevelopers")
-}
-*/
+} */
